@@ -8,6 +8,9 @@
     height: 500px !important;
     width: auto;
     margin: auto;
+    top: 50%;
+    left: 50%;
+    /* transform: translate(-50%,-50%); */
 }
 html,body{
     min-height:100%;
