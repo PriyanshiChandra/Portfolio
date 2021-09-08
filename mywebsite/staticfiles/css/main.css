@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(241, 241, 236) !important;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    height: 140px;
+    width: 140px;
+   
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
